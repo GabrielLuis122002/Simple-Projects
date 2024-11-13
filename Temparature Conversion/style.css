@@ -6,12 +6,12 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(135deg, #ff5945, #4e085f);
     background-repeat: no-repeat; 
     background-attachment: fixed; 
     background-size: cover; 
     margin: 0; 
     height: 100vh;
+    transition: background-color 1.5s ease;
 }
 
 
